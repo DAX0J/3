@@ -1,0 +1,4 @@
+# ملف _redirects يُستخدم مع العديد من خدمات الاستضافة لتوجيه جميع المسارات إلى index.html
+# هذا ضروري لتطبيقات SPA (Single Page Application) التي تستخدم React Router
+
+/*  /index.html  200
